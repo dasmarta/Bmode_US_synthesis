@@ -1,7 +1,8 @@
 #  Simple synthesis of ultrasound B-mode image by convolution
 
 ##  Overview
-This project implements a simplified simulation of ultrasound (US) imaging based on CT data and corresponding tissue segmentations.  
+
+This project is developed as part of a university coursework for the course Image Processing and Computer Vision, with the goal of applying convolution-based methods for the simulation of ultrasound B-mode imaging from CT data. It implements a simplified simulation of ultrasound (US) imaging based on CT data and corresponding tissue segmentations.  
 The pipeline models biological tissues as distributions of scatterers and generates B-mode ultrasound images.
 
 
